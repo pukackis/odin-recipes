@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  background: rgb(195, 34, 160);
+  background: radial-gradient(
+    circle,
+    rgba(195, 34, 160, 1) 0%,
+    rgba(203, 55, 171, 1) 46%,
+    rgba(45, 79, 253, 1) 100%
+  );
+}
+
+ol {
+  font: size 15px;
+  font-weight: bold;
+  text-align: center;
+  list-style-position: inside;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3 {
+  text-align: center;
+}
